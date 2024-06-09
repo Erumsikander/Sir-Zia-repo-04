@@ -5,7 +5,7 @@
 
 let message : string = "Erum Sikander";
 
-// message = 10 ;
+// message = 10 ;  this is assignability error
 
 console.log(message);
 
